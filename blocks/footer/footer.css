@@ -2,6 +2,8 @@
   max-width: 1184px;
   margin: 0 auto 24px;
   display: flex;
+  font-family: 'Inter', Arial, sans-serif;
+  justify-content: space-between;
 }
 
 @media all and (max-width: 1279px) {
